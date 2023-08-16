@@ -4,6 +4,7 @@ import "./App.css";
 import { Button, Grid, GridItem, Show } from "@chakra-ui/react";
 import NavBar from "./components/NavBar";
 
+
 function App() {
   return (
     // <Grid templateAreas={`"nav nav" "aside main"`}> // passing string format
@@ -13,7 +14,7 @@ function App() {
         lg: `"nav nav" "aside main"`,
       }}
     >
-      <GridItem area="nav" bg={"red.400"}>
+      <GridItem area="nav">
         <NavBar></NavBar>
       </GridItem>
       <Show above="lg">

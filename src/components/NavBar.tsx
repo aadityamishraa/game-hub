@@ -3,8 +3,8 @@ import React from 'react'
 import logo from '../assets/logo.svg'
 const NavBar = () => {
   return (
-    <HStack>
-        <Image src={logo} boxSize="64px" />
+    <HStack className='m-10'>
+        <Image src={logo} boxSize="96px" />
     </HStack>
   )
 }
