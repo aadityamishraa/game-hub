@@ -1,5 +1,4 @@
-import React from 'react'
-import useGenres from '../hooks/useGenres'
+import useGenres from '../hooks/useGenres';
 
 const GenresList = () => {
     const {genres} = useGenres();
