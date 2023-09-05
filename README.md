@@ -8,6 +8,8 @@ GameHub is a platform dedicated to helping you explore, discover, and stay updat
 - **Effortless Game Discovery**: Discover new games effortlessly through an intuitive user interface.
 - **API Integration**: Powered by the RAWG API, GameHub provides real-time gaming data, ensuring accuracy and relevance.
 
+![image](https://github.com/aadityamishraa/game-hub/assets/37442807/669de848-25fd-40a5-a4ce-004410d6885e)
+
 ## 🚀 Technologies Used 
 
 - **ReactJS**: GameHub's frontend is built using ReactJS, enhancing its responsiveness and user interactivity.
